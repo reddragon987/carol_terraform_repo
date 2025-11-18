@@ -1,0 +1,5 @@
+    my-os-image = "ami-0bdd88bd06d16ba03"
+    machine_size = "t2.nano"
+    my_aws_region = "us-east-1"
+    private_key_name = "splunk-key"
+    vm_name = "carol-vm2"
