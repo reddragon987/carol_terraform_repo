@@ -2,4 +2,4 @@
     machine_size = "t2.nano"
     my_aws_region = "us-east-1"
     private_key_name = "splunk-key"
-    vm_name = "carol-vm2"
+    vm_name = "carol-vm2vm-day3"
